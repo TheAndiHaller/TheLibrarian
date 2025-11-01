@@ -1,0 +1,85 @@
+{
+  "publishers": [
+    "Spectra"
+  ],
+  "identifiers": {
+    "goodreads": [
+      "830"
+    ],
+    "librarything": [
+      "1000167"
+    ]
+  },
+  "weight": "10.4 ounces",
+  "isbn_10": [
+    "0553380958"
+  ],
+  "covers": [
+    10514880,
+    369948
+  ],
+  "physical_format": "Paperback",
+  "lc_classifications": [
+    "91-45453"
+  ],
+  "key": "/books/OL7826506M",
+  "authors": [
+    {
+      "key": "/authors/OL19430A"
+    }
+  ],
+  "publish_places": [
+    "New York, USA"
+  ],
+  "isbn_13": [
+    "9780553380958"
+  ],
+  "classifications": {},
+  "contributors": [
+    {
+      "role": "Cover Design",
+      "name": "Jae Song"
+    }
+  ],
+  "source_records": [
+    "amazon:0553380958:bx:3026463484:255599",
+    "ia:snowcrash00step_036"
+  ],
+  "title": "Snow Crash (Bantam Spectra Book)",
+  "number_of_pages": 480,
+  "languages": [
+    {
+      "key": "/languages/eng"
+    }
+  ],
+  "subjects": [
+    "American Science Fiction And Fantasy",
+    "Fiction",
+    "Fiction - Science Fiction",
+    "Science Fiction",
+    "Science Fiction - High Tech",
+    "Fiction / Science Fiction / General",
+    "Science Fiction - General"
+  ],
+  "publish_date": "May 2, 2000",
+  "copyright_date": "1992",
+  "works": [
+    {
+      "key": "/works/OL38501W"
+    }
+  ],
+  "type": {
+    "key": "/type/edition"
+  },
+  "physical_dimensions": "8.1 x 5.2 x 0.8 inches",
+  "latest_revision": 12,
+  "revision": 12,
+  "created": {
+    "type": "/type/datetime",
+    "value": "2008-04-29T15:03:11.581851"
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2025-03-28T22:53:48.321642"
+  }
+}

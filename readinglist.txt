@@ -1,0 +1,265 @@
+- [D][X] Rich Dad, Poor Dad | Robert T. Kiyosaki, Sharon L. Lechter | 2000 Jan 01
+- [D][X] The Richest Man in Babylon | George S. Clason | 2000 Jan 01
+- [D][X] How To Win Friends and Influence People | Dale Carnegie | 2000 Jan 01
+- [D][X] Elon Musk | Ashlee Vance | 2000 Jan 01
+- [D][X] Crushing it | Gary Ve | 2000 Jan 01
+- [ ][X] Paddle your Own Canoe | Nick Offerman | 2000 Jan 01
+- [D][X] 12 Rules of Life | Jordan Peterson | 2000 Jan 01
+- [D][X] Zero to One | Peter Thiel | 2000 Jan 01
+- [D][X] Astronaut's Guide to Life on Earth | Chris Hadfield | 2000 Jan 01
+- [D][X] Astrophysics for People in a Hurry | Niel deGrasse Tyson | 2000 Jan 01
+- [D][X] Greenlights | Matthew McConaughey | 2000 Jan 01
+- [D][X] Cosmos | Carl Sagan | 2000 Jan 01
+- [D][X] Unfuck Yourself | John Bishop | 2000 Jan 01
+- [ ][X] Own Your Weird | Jason Zook | 2000 Jan 01
+- [ ][X] Every Tool's a Hammer | Adam Savage | 2000 Jan 01
+- [D][X] Lean Startup | Erik Ries | 2000 Jan 01
+- [D][X] La Clave de Einstein | Mark Albert | 2000 Jan 01
+- [D][X] Adventures of Huckleberry Finn | Mark Twain | 2000 Jan 01
+- [D][X] 1984 | George Orwell | 2023 Jan 12
+- [D][X] Hitchhiker’s Guide to the Galaxy | Douglas Adams | 2023 Jan 16
+- [D][X] Brave New World | Aldous Huxley | 2023 Jan 28
+- [D][X] The Stranger | Camus | 2023 Jan 30
+- [D][X] Meditations | Marcus Aurelius | 2023 Feb 08
+- [ ][X] Ikigai | Hector Garcia & Francesc Miralles | 2023 Feb 20
+- [ ][X] The Art of War | Sun Tzu | 2023 Feb 20
+- [ ][X] Foundation (1) | Isaac Asimov | 2023 Mar 04
+- [ ][X] Foundation and Empire (2) | Isaac Asimov  | 2023 Mar 12
+- [ ][X] Can't hurt me | David Gogings | 2023 Mar 16
+- [D][X] Do Androids Dream of Electric Sheep | Philip K. Dick | 2023 Jul 08
+- [ ][X] Animal Farm | George Orwell | 2023 Jul 27
+- [ ][X] Contact | Carl Sagan | 2023 Aug 01
+- [D][X] Cyberpunk 2077: No coincidence | Rafal Kosik | 2023 Oct 08
+- [D][X] The Obstacle is the Way | Ryan Holiday | 2023 Nov 30
+- [D][X] Easypeasy | Allen Carr | 2024 Jan 05
+- [D][X] The Power of Now | Eckhart Tolle | 2024 Jan 20
+- [D][X] The Wisdom of Insecurity | Alan Watts | 2024 Jan 26
+- [D][X] Man’s Search for Meaning (Trotzdem Ja zum Leben sagen) | Victor Frankel | 2024 Feb 14
+- [D][X] Masters of Doom | David Kushner | 2024 Mar 05
+- [D][X] A Monk's Guide to a Clean House and Mind | Shoukei Matsumoto | 2024 Mar 14
+- [D][X] The Egg (short story) | Andy Weir | 2024 Mar 14
+- [D][X] The Martian | Andy Weir | 2024 May 03
+- [D][X] Neuromancer | William Gibson | 2024 Jun 13
+- [D][X] Count Zero | William Gibson | 2024 Jul 11
+- [D][X] Mona Lisa Overdrive | William Gibson | 2024 Aug 01
+- [D][X] Johnny Mnemonic | William Gibson | 2024 Aug 07
+- [D][X] Extreme ownership | Jocko Willink | 2024 Nov 15
+- [D][X] Digital Minimalism | Cal Newport | 2025 Jan 20
+- [D][X] Ghost in the Wires | Kevin Mitnick | 2025 Mar 15
+- [D][X] Steal Like and Artist | Austin Kleon | 2025 Jun 18
+- [D][X] Project Hail Mary | Andy Weir | 2025 Jul 17
+- [D][X] Siddhartha | Herman Hesse | 2025 Aug 07
+- [D][X] Free Will | Sam Harris | 2025 Aug 12
+- [D][X] Atomic Habits | James Clear | 2025 Sep 21
+- [D][X] Show Your Work | Austin Kleon | 2025 Sep 25
+- [D][X] The Courage to Be Disliked | Ichiro Kishimi & Fumitake Koga | 2025 Oct 07
+- [D][X] The Elephant Vanishes | Haruki Murakami | 2025 Oct 12
+- [D][X] Artemis | Andy Weir | 2025 Oct 19
+- [D][ ] The Subtle Art of not Giving a Fuck | Mark Manson
+- [D][ ] Hackers: Heroes of the Computer Revolution | Steven Levy
+- [D][ ] Start with why | Simon Sinek
+- [D][ ] Code: The Hidden Language of computers | Charles Petzold
+- [D][ ] Deep Work | Cal Newport
+- [D][ ] Véndele a la mente, no a la gente | Jürgen Klaric
+- [D][ ] The 48 Laws of Power | Robert Greene
+- [D][ ] So Good They Can't Ignore You | Cal Newport
+- [D][ ] Mastery | Robert Greene
+- [D][ ] The Way of Zen | Alan Watts
+- [D][ ] The Three Pillars of Zen | Roshi P. Kapleau
+- [D][ ] Zen Mind, Beginners Mind | Shunryu Suzuki
+- [D][ ] Thinking Fast and Slow | Daniel Kahneman
+- [D][ ] The Book On the Taboo Against Knowing Who You Are | Alan Watts
+- [D][ ] Become What You Are | Alan Watts
+- [D][ ] The Meaning of Happiness | Alan Watts
+- [D][ ] Think Like a Monk | Jay Shetty
+- [D][ ] The Laws of Human Nature | Robert Greene
+- [D][ ] The Art of Seduction | Robert Greene
+- [D][ ] The 12 Week Year | Brian P. Morgan, Michael Lennington
+- [D][ ] The Diary of a CEO | Steven Bartlett
+- [D][ ] Discipline Equals Freedom | Jocko Willink
+- [D][ ] Dopamine Nation | Anna Lembke
+- [D][ ] The Official Dopamine Nation Workbook | Anna Lembke
+- [ ][ ] The Almanack of Naval Ravikant | Naval Ravikant
+- [ ][ ] Recursion | Blake Crouch
+- [ ][ ] Dark Matter | Blake Crouch
+- [ ][ ] Pines (1) | Blake Crouch
+- [ ][ ] Wayward (2) | Blake Crouch
+- [ ][ ] The Last Town (3) | Blake Crouch
+- [ ][ ] Delta v (1) | Daniel Suarez
+- [ ][ ] Critical Mass (2) | Daniel Suarez
+- [ ][ ] The Long Way to a Small, Angry Planet (1) | Becky Chambers
+- [ ][ ] Red Mars (1) | Kim Stanley Robinson
+- [ ][ ] Lexicon | Max Barry
+- [ ][ ] Men Without Women: Stories (Hombres sin mujeres) | Haruki Murakami
+- [ ][ ] Kafka on the Shore (Kafka en la orilla) | Haruki Murakami
+- [ ][ ] Norwegian Wood (Tokio blues) | Haruki Murakami
+- [ ][ ] Hardwired | Walter Jon Williams
+- [ ][ ] Second Foundation (3) | Isaac Asimov
+- [ ][ ] Foundation's Edge (4) | Isaac Asimov
+- [ ][ ] Foundation and Earth (5) | Isaac Asimov
+- [ ][ ] Old Man and The Sea | Hemingway
+- [ ][ ] 2001: A Space Odyssey | Arthur C Clarke
+- [ ][ ] Sapiens | Yuval Noah Harari
+- [ ][ ] Metamorphosis, Hunger Artist | Franz Kafka
+- [D][ ] The Plague | Camus
+- [D][ ] The Rebel | Camus
+- [ ][ ] Consider Phlebas (1) | Ian Banks
+- [ ][ ] Player of Games (2) | Ian Banks
+- [ ][ ] Surface Detail (9) | Ian Banks
+- [ ][ ] Fight Club | Chuck Palahniuk
+- [ ][ ] The Little Prince | Antoine de Saint-Exupéry
+- [ ][ ] Brothers Karamazov | Dostoevsky
+- [D][ ] Dune | Frank Herbert
+- [ ][ ] Frankenstein | Mary Shelley
+- [ ][ ] On the Road | Jack Kerouac
+- [D][ ] Find you why | Simon Sinek
+- [ ][ ] The Bhagavad Gita | Unknown
+- [ ][ ] Stop Procrastination | Robert M. Parson
+- [ ][ ] The 4-Hour Workweek | Timothy Ferris
+- [D][ ] Do the Work | John Bishop
+- [ ][ ] Exponential Organizations | Salim Ismail
+- [ ][ ] 10% Happier | Dam Harris
+- [ ][ ] Crash Test Girl | Kari Byron
+- [ ][ ] Living with the Monks | Jesse Itzler
+- [ ][ ] Living with a Seal | Jesse Itzler
+- [ ][ ] The 7 Habits of Highly Effective People | Sean Covey
+- [ ][ ] Stop Overthinking | Nick Trenton
+- [ ][ ] The Daily Stoic | Ryan Holiday
+- [ ][ ] The Inner Citadel | Pierre Hadot
+- [ ][ ] How to think like a Roman Emperor | Donald Robertson
+- [ ][ ] Memoirs of Hadrian | Marguerite Yourcenar
+- [ ][ ] The Gulag Archipelago | Solzhenitsyn
+- [ ][ ] The Restaurant at the End of the Galaxy | Douglas Adams
+- [D][ ] The Alchemist | Paulo Coelho
+- [D][ ] Beyond Order. 12 more Rules for Life | Jordan Peterson
+- [ ][ ] The Art of Reasoning | David Kelley
+- [ ][ ] The Philosophy of Objectivism | Ayn Rand
+- [ ][ ] The Five Levels of Attachment | Donovan Grant
+- [ ][ ] Leviathan Wakes | James S. A. Corey
+- [ ][ ] Caliban's War | James S. A. Corey
+- [ ][ ] Abaddon's Gate | James S. A. Corey
+- [ ][ ] Cibola Burn | James S. A. Corey
+- [ ][ ] Nemesis Games | James S. A. Corey
+- [ ][ ] Babylon's Ashes | James S. A. Corey
+- [ ][ ] Persepolis Rising | James S. A. Corey
+- [ ][ ] Tiamat's Wrath | James S. A. Corey
+- [ ][ ] Leviathan Falls | James S. A. Corey
+- [ ][ ] Build | Tony Fadel
+- [ ][ ] A New Kind of Science | Stephen Wolfram
+- [ ][ ] The Diary of a Young Girl | Anne Frank
+- [ ][ ] Ender’s Game | Orson Scott Card
+- [D][ ] Snow Crash | Neal Stephenson
+- [ ][ ] The Moon Is a Harsh Mistress | Robert Heinlein
+- [D][ ] The Three | Body Problem | Cixin Liu
+- [ ][ ] Stranger in a Strange Land | Robert Heinlein
+- [D][ ] Godel, Escher, Bach | Douglas R. Hofstadter
+- [D][ ] I Am a Strange Loop | Hofstadter Douglas
+- [ ][ ] The Four Agreements | Don Miguel Ruiz
+- [ ][ ] The Internet of Money Vol 1 | Andreas M. Antonopoulos
+- [ ][ ] The Internet of Money Vol 2 | Andreas M. Antonopoulos
+- [ ][ ] The Internet of Money Vol 3 | Andreas M. Antonopoulos
+- [ ][ ] Ready Player One | Ernest Cline
+- [ ][ ] Ready Player Two | Ernest Cline
+- [ ][ ] Awaken the Giant Within | Anthony Robbins
+- [ ][ ] Antifragile: Things That Gain From Disorder | Nassim Nicholas Taleb
+- [D][ ] Steve Jobs | Walter Isaacson
+- [D][ ] Elon Musk | Walter Isaacson
+- [D][ ] Einstein | Walter Isaacson
+- [D][ ] The Code Breaker. Jennifer Doudna | Walter Isaacson
+- [ ][ ] Aprender a Practicar Mindfulness | Vicente Simon
+- [ ][ ] Think and Grow Rich | Napoleon Hill and Rosa Lee Beeland
+- [ ][ ] The Wheel of life | Elizabeth Kubler-Ross
+- [ ][ ] The Unfair Advantage | Ash Ali and Hasan Kubba
+- [ ][ ] The Rise and Fall of the Third Reich | William L. Shirer
+- [ ][ ] The Bitcoin Standart | Saifedean Ammous
+- [ ][ ] The Blocksize War | Jonathan Bier
+- [ ][ ] The Unseen Body | Jonathan Reisman
+- [ ][ ] Life 3.0 | Max Tegmark
+- [ ][ ] Pale Blue Dot | Carl Sagan
+- [ ][ ] Loneliness: Human Nature and the Need for Social Connection | Cacioppo, John T
+- [D][ ] To Kill a Mockingbird | Harper Lee
+- [ ][ ] Emotional First Aid:  Healing Rejection, Guilt and Failure | Guy Winch Ph.D
+- [D][ ] The Wandering Earth | Cixin Liu
+- [D][ ] I, Robot | Isaac Asimov
+- [D][ ] Seven Brief Lessons On Physics | Carlo Rovelli, Simon Carnell, Erica Segre
+- [D][ ] Crush it | Gary Vaynerchuk
+- [D][ ] Stop doing that shit | gary John Bishop
+- [D][ ] The Adventures of Tom Sawyer | Mark Twain
+- [D][ ] Letters from a Stoic | Seneca
+- [D][ ] On the Shortness of Life | Seneca
+- [D][ ] Discourses and Selected Writings | Epictetus
+- [D][ ] Final Theory | Alpert Mark
+- [D][ ] Theft of Fire | Devon Eriksen
+- [D][ ] A Life Worth Living Albert Camus and the Quest for Meaning | Robert Zaretsky
+- [D][ ] Easy Way to Stop Smoking | Allen Carr
+- [D][ ] The Craving Mind | Judson Brewer
+- [D][ ] The Art of Simple Living | Masuno Shunmyo
+- [D][ ] Quiet Mind, Fearless Heart | Seaward
+- [D][ ] Improve your Handwriting | Rosemary Sassoon
+- [D][ ] Fuck your Resume | Jeremy Dillahunt
+- [D][ ] The Tools | Phil Stutz, Barry Michels
+- [D][ ] Coming Alive | Barry Michels Phil Stutz
+- [D][ ] Lessons for Living | Phil Stutz
+- [D][ ] The White Pill A Tale of Good and Evil | Michael Malice
+- [D][ ] Der Steppenwolf | Hermann Hesse
+- [D][ ] Building a Second Brain | Tiago Forte
+- [D][ ] Frames Of Mind | Howard Gardner
+- [D][ ] Mindset | Carol S. Dweck
+- [ ][ ] I Will Teatch You To Be Rich | Ramit Sethi
+- [ ][ ] Ego Is The Enemy | Ryan Holiday
+- [ ][ ] Getting Things Done | David Allen
+- [ ][ ] Psycho-Cybernetics | Maxwell Maltz
+- [D][ ] The War of Art | Steven Pressfield
+- [D][ ] Do the Work | Steven Pressfield
+- [D][ ] Letters to a Young Poet | Rainer Maria Rilke
+- [D][ ] A New Earth | Eckhart Tolle
+- [D][ ] Notes From the Underground (Memorias del subsuelo) | Fyodor Dostoyevsky
+- [D][ ] No Longer Human (Indigno de ser humano) | Osamu Dazai
+- [ ][ ] The Denial of Death (La Negación De La Muerte) | Ernest Becker
+- [ ][ ] The Art of Unix Programming | Eric Steven Raymond
+- [ ][ ] Antifragile (Antifrágil) | Nassim Nicholas Taleb
+- [ ][ ] Zen and the Art of Motorcycle Maintenance | Robert M. Pirsig
+- [ ][ ] The Sovereign Individual | James Dale Davidson, William Rees-Mogg
+- [ ][ ] The Beginning of Infinity | David Deutsch
+- [ ][ ] Las venas abiertas de América Latina | Eduardo Galeano
+- [ ][ ] Rayuela | Julio Cortazar
+- [ ][ ] Cien años de soledad | Gabriel García Márquez
+- [ ][ ] El Aleph | Jorge Luis Borges
+- [ ][ ] La ciudad y los perros | Vargas Llosa
+- [ ][ ] Borges esencial | Jorge Luis Borges
+- [ ][ ] Poesía completa | Alejandra Pizarnik
+- [ ][ ] Pedro Páramo | Juan Rulfo
+- [ ][ ] Tala | Gabriela Mistral
+- [ ][ ] Conversación en la catedral | Mario Vargas Llosa
+- [ ][ ] Cuentos | Mario Benedetti
+- [ ][ ] C Programming language | Brian W. Kernighan and Dennis M. Ritchie
+- [D][ ] Hacking The Art of Exploitation | Jon Erickson
+- [D][ ] Deep Learning with Python | François Chollet
+- [D][ ] AI and Machine Learning for Coders | Laurence Moroney
+- [ ][ ] Introduction to Algorithms | Cormen, Leiserson, Rivest, and Stein
+- [ ][ ] The Pragmatic Programmer | Andy Hunt, Dave Thomas
+- [ ][ ] The Algorithm Design Manual | Steven S. Skiena
+- [ ][ ] Algorithms | Robert Sedgewick and Kevin Wayne
+- [ ][ ] Cracking the Coding Interview | Gayle McDowell
+- [ ][ ] Clean Code | Robert C. Martin
+- [ ][ ] Clean Craftsmanship | Robert C. Martin
+- [ ][ ] Clean Agile: Back to Basics | Robert C. Martin
+- [ ][ ] Clean Architecture | Robert C. Martin
+- [ ][ ] The Clean Coder | Robert C. Martin
+- [ ][ ] Agile Software Development | Robert C. Martin
+- [ ][ ] El Libro Negro del Programador | Roberto Gómez Blanes
+- [ ][ ] El Libro Práctico del Programador Ágil | Roberto Gómez Blanes
+- [ ][ ] Lean UX | Jeff Gothelf and Josh Seiden
+- [ ][ ] Don't Make Me Think | Steve Krug
+- [ ][ ] Design Patterns | Erich Gamma
+- [ ][ ] Girl Decoded | Rana el Kaliouby
+- [ ][ ] Thinking in Systems | Daniella Meadows
+- [ ][ ] The Self-Taught Computer Scientist | Cory Althoff
+- [D][ ] The Self-Taught Programmer | Cory Althoff
+- [ ][ ] The Computer Science Book | Thomas Johnson
+- [ ][ ] A Programmer's Guide to Computer Science | William Springer
+- [ ][ ] Cybersecurity for Beginners | Raef Meeuwisse
+- [ ][ ] Ghost in the Wires | Kevin Mitnick
+- [D][ ] Introduction to Algorithms | Thomas H Cormen
+- [D][ ] A Common-Sense Guide to Data Structures and Algorithms | Jay Wengrow
+- [D][ ] Computer Organization and Design | Hennessy, Patterson, David A

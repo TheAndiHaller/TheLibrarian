@@ -1,0 +1,250 @@
+{
+  "numFound": 12,
+  "start": 0,
+  "numFoundExact": true,
+  "num_found": 12,
+  "q": "snow crash",
+  "documentation_url": "https://openlibrary.org/dev/docs/api/search",
+  "docs": [
+    {
+      "author_key": [
+        "OL19430A"
+      ],
+      "author_name": [
+        "Neal Stephenson"
+      ],
+      "cover_edition_key": "OL7599585M",
+      "cover_i": 392508,
+      "ebook_access": "printdisabled",
+      "edition_count": 41,
+      "first_publish_year": 1992,
+      "has_fulltext": true,
+      "ia": [
+        "snowcrash00step",
+        "snowcrash0000step",
+        "snowcrash00step_0"
+      ],
+      "ia_collection_s": "americana;delawarecountydistrictlibrary;internetarchivebooks;printdisabled",
+      "key": "/works/OL38501W",
+      "language": [
+        "ita",
+        "fre",
+        "eng",
+        "ger",
+        "spa",
+        "por"
+      ],
+      "public_scan_b": false,
+      "title": "Snow Crash"
+    },
+    {
+      "author_key": [
+        "OL2838365A"
+      ],
+      "author_name": [
+        "Prima Games"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 1997,
+      "has_fulltext": false,
+      "key": "/works/OL8495480W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Snow Crash"
+    },
+    {
+      "author_key": [
+        "OL2730793A"
+      ],
+      "author_name": [
+        "Wagner James Au"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 2,
+      "first_publish_year": 2023,
+      "has_fulltext": false,
+      "key": "/works/OL34026508W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Making a Metaverse That Matters"
+    },
+    {
+      "author_key": [
+        "OL2775770A",
+        "OL460493A",
+        "OL3871165A"
+      ],
+      "author_name": [
+        "Anna Prokos",
+        "Alan Snow",
+        "Tracey Randinelli"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2002,
+      "has_fulltext": false,
+      "key": "/works/OL12313058M",
+      "public_scan_b": false,
+      "title": "Secrets of Space (Crash Course: Games for Brains)"
+    },
+    {
+      "author_key": [
+        "OL10941128A",
+        "OL10776178A"
+      ],
+      "author_name": [
+        "Louis Gonzalez",
+        "Linda Boris"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2018,
+      "has_fulltext": false,
+      "key": "/works/OL29595796W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Shrouds in the Snow"
+    },
+    {
+      "author_key": [
+        "OL3871164A",
+        "OL2775770A"
+      ],
+      "author_name": [
+        "Tracy Randinelli",
+        "Anna Prokos"
+      ],
+      "cover_edition_key": "OL12313053M",
+      "cover_i": 2939569,
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2002,
+      "has_fulltext": false,
+      "key": "/works/OL33655590W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Crash Course"
+    },
+    {
+      "author_key": [
+        "OL1714233A"
+      ],
+      "author_name": [
+        "Reader's Digest Association"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 42,
+      "first_publish_year": 1963,
+      "has_fulltext": false,
+      "key": "/works/OL6985213W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Condensed books"
+    },
+    {
+      "author_key": [
+        "OL240250A"
+      ],
+      "author_name": [
+        "Susan Ring"
+      ],
+      "cover_edition_key": "OL8794324M",
+      "cover_i": 848776,
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 2002,
+      "has_fulltext": false,
+      "key": "/works/OL1995639W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "subtitle": "Gross Anatomy (Crash Course Games for Brains, An Interactice Reference Book)",
+      "title": "Crash Course"
+    },
+    {
+      "author_key": [
+        "OL14467879A"
+      ],
+      "author_name": [
+        "Writing Aesthetics Staff"
+      ],
+      "ebook_access": "no_ebook",
+      "edition_count": 25,
+      "first_publish_year": 2018,
+      "has_fulltext": false,
+      "key": "/works/OL41754567W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Aesthetic Art Journaling"
+    },
+    {
+      "cover_edition_key": "OL51165592M",
+      "cover_i": 14591049,
+      "ebook_access": "no_ebook",
+      "edition_count": 1,
+      "first_publish_year": 1985,
+      "has_fulltext": false,
+      "key": "/works/OL37904373W",
+      "public_scan_b": false,
+      "title": "Thomas and Terence,James and the tar wagons ladybird"
+    },
+    {
+      "author_key": [
+        "OL2721078A"
+      ],
+      "author_name": [
+        "Constance O. Irvin"
+      ],
+      "cover_edition_key": "OL7557361M",
+      "cover_i": 388131,
+      "ebook_access": "printdisabled",
+      "edition_count": 1,
+      "first_publish_year": 2005,
+      "has_fulltext": true,
+      "ia": [
+        "seasonsofheart0000irvi"
+      ],
+      "ia_collection_s": "internetarchivebooks;printdisabled",
+      "key": "/works/OL8155355W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "The Seasons of a Heart"
+    },
+    {
+      "author_key": [
+        "OL1428899A"
+      ],
+      "author_name": [
+        "Nikki Nichols"
+      ],
+      "cover_edition_key": "OL8754832M",
+      "cover_i": 835581,
+      "ebook_access": "no_ebook",
+      "edition_count": 2,
+      "first_publish_year": 2005,
+      "has_fulltext": false,
+      "key": "/works/OL5829584W",
+      "language": [
+        "eng"
+      ],
+      "public_scan_b": false,
+      "title": "Frozen in time"
+    }
+  ]
+}
