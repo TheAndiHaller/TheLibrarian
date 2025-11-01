@@ -1,42 +1,36 @@
-import requests
-
-  #status        Status    @default(TO_READ)
-  #owned         Owned     @default(NO)
-  #addedAt       DateTime  @default(now())
-  #finishedAt    DateTime?
-  #notes         String?
+import sys
+from functions.api_search import *
 
 def main():
-    query = "Snow Crash"
-    print(f"Searching for: {query}")
-    search = requests.get(f"https://openlibrary.org/search.json?title={query}").json()
 
-    doc = search['docs'][0] 
+    search_by_title = "--title" in sys.argv
+    search_by_author = "--author" in sys.argv
+    search_from_file = "--file" in sys.argv
 
-    work_key = doc['key']  
-    work = requests.get(f"https://openlibrary.org{work_key}.json").json()
+    args = []
+    for arg in sys.argv[1:]:
+        if not arg.startswith("--"):
+            args.append(arg)
 
-    hardcover_key = doc.get("cover_edition_key")
 
-    hardcover = {}
+    if not args:
+        print("\n-------------------- Books ------------------------")
+        print('Manual Search:  "Title | Author" [--title, --author]')
+        print('Search from file: "/path/to/file.txt" [--file]\n')
+        sys.exit(1)
 
-    if hardcover_key:
-        hardcover = requests.get(f"https://openlibrary.org/books/{hardcover_key}.json").json()
+    book_title = " ".join(args)
 
-    book_data = {
-    "title": doc.get("title"),
-    "author": doc.get("author_name", [None])[0],
-    "description": work.get("description"),
-    "subjects": work.get("subjects"),
-    "pages": hardcover.get("number_of_pages"),
-    "year": doc.get("first_publish_year"),
-    "isbn": hardcover.get('isbn_13', hardcover.get('isbn_10', [None]))[0],
-    "key": doc.get("key")
-    }
-
-    for k, v in book_data.items():
-        print(f"{k}: {v}")
-
+    if search_by_author:
+        print("Searching by Author")
+    elif search_from_file:
+        print("Reading File")
+        book_list = search_from_file()
+    else:
+        book_data = search_book(book_title)
+        
+        for k, v in book_data.items():
+            print(f"{k}: {v}")
 
 
 
