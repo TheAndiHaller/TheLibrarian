@@ -1,6 +1,7 @@
 import sys
 from functions.api_search import *
 from functions.from_list import *
+from database.queries import *
 
 def main():
 
@@ -38,6 +39,7 @@ def main():
             try:    
                 book_data = search_book(t, verbose)
                 book_list.append(book_data)
+                save_book(book_data)
 
             except Exception as e:
                 print(f"Error Searching: {t} \n {e}")
@@ -45,7 +47,10 @@ def main():
                 continue
 
     else:
-        book_data = search_book(user_input)
+        book_data = get_book(user_input)
+        if not book_data:
+            book_data = search_book(user_input)
+            save_book(book_data)
         
         for k, v in book_data.items():
             print(f"{k}: {v}")
