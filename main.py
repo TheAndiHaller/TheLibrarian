@@ -45,6 +45,7 @@ def main():
                 print(f"Error Searching: {t} \n {e}")
                 failed_search.append(t)
                 continue
+        print_book_list(book_list)
 
     else:
         book_data = get_book(user_input)
@@ -56,6 +57,7 @@ def main():
             print(f"{k}: {v}")
 
 
+def print_book_list(book_list):
     print("\n----------------------- Titles found --------------------------\n")
     for book in book_list:
         for k, v in book.items():
