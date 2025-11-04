@@ -20,6 +20,8 @@ def main():
         print("\n-------------------- Books ------------------------")
         print('Manual Search:  "Title | Author" [--title, --author]')
         print('Search from file: "/path/to/file.txt" [--file]\n')
+        result= get_all_books()
+        print(result[0])
         sys.exit(1)
 
     user_input = " ".join(args)
@@ -37,9 +39,12 @@ def main():
         for t in title_list:
             print(f"Title: {t}")
             try:    
-                book_data = search_book(t, verbose)
+                book_data = get_book(t)
+                if not book_data:
+                    book_data = search_book(t, verbose)
+                    save_book(book_data)
                 book_list.append(book_data)
-                save_book(book_data)
+                #save_book(book_data)
 
             except Exception as e:
                 print(f"Error Searching: {t} \n {e}")

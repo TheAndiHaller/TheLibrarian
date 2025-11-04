@@ -27,3 +27,13 @@ def get_book(title):
         return None
     return result[0]
 
+# Get all Books
+def get_all_books():
+    result = []
+    for book in db.all():
+        new_book = {**book, "eid": book.doc_id}
+        result.append(new_book)
+
+    if len(result) == 0:
+        return None
+    return result
